@@ -8,7 +8,7 @@
 - [Data Sources and Tools](#Data-Sources-and-Tools)
 - [PowerBi Public](#PowerBi_Public)
 - [Schedule](#Schedule)
-- [Detailed Approach](#Detatiled_Approach)
+- [Detailed Approach](#Detailed_Approach)
   
 
 **Mental health challenges are a growing concern in today's world.** Mental challenges seem to impact alot of people and a larger amount of thoughs people are entering or have been in the world of video games. This survey was taken by over 13,000 people who have been asked multiple questions involving there mental stability.This project is a deeper look into the reality of video games to see if mental health is a concern in gamers.
