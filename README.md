@@ -58,11 +58,11 @@ License: CC-By Attribution 4.0 International
 *Back to [Contents](#Contents)*
 
 ### **Detailed Apporoach:**    
--Spent a couple of hours looking for dataset
--Explored and wrote down personal steps to create plan to tackle data
--After exploration cleaned data and created scale in excel
--Used python to further breakdown dataset to and answers to questions above
--Imported cleaned dataset to Power Bi to create a dashboard 
--After creating dashboard used graphs to create a presentation in canva
+- Spent a couple of hours looking for dataset
+- Explored and wrote down personal steps to create plan to tackle data
+- After exploration cleaned data and created scale in excel
+- Used python to further breakdown dataset to and answers to questions above
+- Imported cleaned dataset to Power Bi to create a dashboard 
+- After creating dashboard used graphs to create a presentation in canva
 *Back to [Contents](#Contents)*
 
