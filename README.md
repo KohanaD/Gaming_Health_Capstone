@@ -57,7 +57,7 @@ License: CC-By Attribution 4.0 International
 6/27/2024 ..... Demo Day!     
 *Back to [Contents](#Contents)*
 
-### **Detailed Apporoach:**    
+### **Detailed Approach:**    
 - Spent a couple of hours looking for dataset
 - Explored and wrote down personal steps to create plan to tackle data
 - After exploration cleaned data and created scale in excel
