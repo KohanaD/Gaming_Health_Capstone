@@ -11,7 +11,7 @@
 - [Detailed Approach](#Detailed_Approach)
   
 
-**Mental health challenges are a growing concern in today's world.** Mental challenges seem to impact alot of people and a larger amount of thoughs people are entering or have been in the world of video games. This survey was taken by over 13,000 people who have been asked multiple questions involving there mental stability.This project is a deeper look into the reality of video games to see if mental health is a concern in gamers.
+**Mental health challenges are a growing concern in today's world.** Mental challenges seem to impact alot of people and a larger amount of thoughs people are entering or have been in the world of video games. This survey was taken by over 13,000 people who have been asked multiple questions involving their mental stability. This project is a deeper look into the reality of video games to see if mental health is a concern in gamers.
 
 ### **Motivation**   
 Growing up video games have always been apart of my life. I have always been around games and have had many friends online who have and still are suffering with mental health challenges. I am very lucky that they haven't lost there battle but there have been many of my favorite content creators that have lost there battle to it and it doesn't just affect me but also the thousands of other people that watched them. I just want to bring light to who ever is reading this about the challenges that people suffer every day due to mental health and show that there are people out there that do need your help, sometimes they look like they are living your best life but always remember that it could be a mask. Always look for signs because they are here. 
