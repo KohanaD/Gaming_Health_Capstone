@@ -57,9 +57,13 @@ License: CC-By Attribution 4.0 International
 
 ### **Schedule**
 4/?/2024 ..... Get the data   
+
 6/04/2024 ..... Clean and explore the data 
+
 6/15/2024 ..... Create charts and dashboard draft  
+
 6/22/2024 ..... Internal demo  
+
 6/27/2024 ..... Demo Day!     
 *Back to [Contents](#Contents)*
 
